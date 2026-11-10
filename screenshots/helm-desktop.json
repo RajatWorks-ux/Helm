@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Helm",
+      "hasCanvas": false,
+      "bodyTextLen": 2073,
+      "bodyTextHash": "3903e099838e2fb08854f065c93412b64499569633f8fd28ae07e1af0742db20",
+      "bodyTextPrefix": "HELM Wednesday 28 October Class 11, Class 12, and IMU CET in one",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/helm-desktop.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Helm",
+      "hasCanvas": false,
+      "bodyTextLen": 2056,
+      "bodyTextHash": "155e026653dc3108328c5b5ee57d1e1d7b39a719e7a19237e8035aea7cfa4b55",
+      "bodyTextPrefix": "HELM Wednesday 28 October Class 11, Class 12, and IMU CET in one",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/helm-desktop-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/helm-desktop.json"
+}
